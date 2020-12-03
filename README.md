@@ -1,5 +1,5 @@
 # Twattlechat
-•	A social media application built natively for Android devices made using the flavor of Java, node JS, and Firebase as a backend. 
+•	A social messaging application built natively for Android devices made using the flavor of Java, node JS, and Firebase as a backend. 
   Users can have chat, can share images and videos instantly. 
   Library used: Firebase UI, Glide.
   Technology used: Firebase Realtime database, Firebase storage, Google cloud function, Firebase authentication, Firebase cloud messaging, Remote config.
