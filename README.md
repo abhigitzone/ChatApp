@@ -1,5 +1,5 @@
 # Twattlechat
-🌱 A social messaging app built natively for Android devices to have chat, share images instantly. Used google cloud function to deploy node JS code to automatically emojifying text according to user chat. Also used remote config to set the message length limit through Firebase cloud. <br />
+🌱 A social messaging app built natively for Android devices to have chat, share images instantly. Google cloud function is used to deploy node JS code to automatically emojifying text according to user's chat. remote config is used to set the message length limit through Firebase cloud. <br />
  🐱‍💻 Library used: Firebase UI, Glide. <br />
  🔧 Technology used: Firebase Realtime database, Firebase storage, Google cloud function, Firebase authentication, Firebase cloud messaging, Remote config.
    
